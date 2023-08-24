@@ -1,4 +1,4 @@
-# Guess-a-Mon
+# Guess-em-all
 
 ⚡ You can catch 'em all, but can you guess 'em all? ⚡
 
